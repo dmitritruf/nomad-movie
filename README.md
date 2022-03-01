@@ -1,2 +1,2 @@
-# Nomad-Corder-Reactjs-Movie-Website
+# Nomad-Reactjs-Movie
 Reactjs Movie Website created with React.js
